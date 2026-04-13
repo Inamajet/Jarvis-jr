@@ -44,7 +44,7 @@ Smart speakers like Alexa are passive — they wait for you to talk to them. JAR
 | Breadboard 830 points | $3.99 | Included in kit |
 | Jumper wires (M-M, M-F) | $3.99 | Included in kit |
 | Micro USB cable (2-pack) | $5.98 | [Amazon](https://www.amazon.com/dp/B07232M876) |
-| **TOTAL** | **~$67** | |
+| **TOTAL** | **~80** (prices may vary due to sources) | |
 
 ## Custom PCB
 
