@@ -16,7 +16,7 @@ Smart speakers like Alexa just sit there and talk. JARVIS Jr. actually interacts
 ## Parts list
 | Part | Price | Where to buy |
 |------|-------|--------------|
-| ESP32-CAM with camera | $10 | Amazon: search "ESP32-CAM" |
+| ESP32-CAM with camera | $10 | https://www.amazon.com/Seeed-Studio-XIAO-ESP32-Sense/dp/B0C69FFVHH/ref=sr_1_1_sspa?crid=BVHEJDZ5JEWC&dib=eyJ2IjoiMSJ9.PooeaXEgLrTuTEkMB5N2-4KuzAWaLYFoLEoi5aLQzxa5RqvXNKIo2Lx6ewXn7wDykjZpwx3Obm67yOdbY8HD3KOwJKyjEpbJnVL5TDE1rPGHNlzfp20LxxqYENpKgC2r0KJUBprQkZ2T0jKOyZTlWYgfn4m8SiyEGH1ddKueUO0RKA2QRe1RbossNDVQJICP6pz3P-bUcJ67oykRDmFgMdYsMJDvaLq1SfPWe7Ug4hg.alk7VEFhbjKzUnVt14Ol4AZS-Kemtdk4z52QcSmCVng&dib_tag=se&keywords=ESP32-CAM%2Bwith%2Bcamera&qid=1776057912&sprefix=esp32-cam%2Bwith%2Bcamera%2Caps%2C284&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1  |
 | FT232RL FTDI programmer | $6 | Amazon: search "FT232RL FTDI" |
 | Sound sensor KY-038 | $4 | Amazon: search "KY-038 sound sensor" |
 | Servo motor SG90 (2x) | $6 | Amazon: search "SG90 servo" |
