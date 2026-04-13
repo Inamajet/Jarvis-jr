@@ -43,7 +43,8 @@ Smart speakers like Alexa are passive  they wait for you to talk to them. JARVIS
 | Passive Buzzer (20-pack) | $5.99 | [Amazon](https://www.amazon.com/dp/B0F1KFHSNK) |
 | Breadboard + Jumper Wires Kit | $14.99 | [Amazon](https://www.amazon.com/dp/B0C1VDKPW2) |
 | Micro USB cable (6ft) | $8.09 | [Amazon](https://www.amazon.com/dp/B07232M876) |
-| **TOTAL** | **~$84** | |
+| 3D printed parts | $20 - 35 |
+| **TOTAL** | **~$104** | |
 
 ## Custom PCB
 
