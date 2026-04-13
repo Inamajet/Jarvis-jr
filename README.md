@@ -12,7 +12,7 @@ JARVIS Jr. is a desk companion robot that watches my room with its camera, liste
 Alexa can't wave back. Every smart assistant on the market just sits there and talks. I wanted something with a physical presence that actually interacts with the room. And as the name suggests i want it to be like jarvis from ironman.
 
 ## Parts list
-[basic list - we'll finalize later]
+[WIP]
 
 ## Status
 - [ ] Approved
