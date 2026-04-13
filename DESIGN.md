@@ -14,17 +14,18 @@ Smart speakers like Alexa just sit there and talk. JARVIS Jr. actually interacts
 - **Sound:** Buzzer makes beeps
 
 ## Parts list
-| Part | Price | Where to buy |
-|------|-------|--------------|
-| ESP32-CAM with camera | $10 | https://www.amazon.com/Seeed-Studio-XIAO-ESP32-Sense/dp/B0C69FFVHH/ref=sr_1_1_sspa?crid=BVHEJDZ5JEWC&dib=eyJ2IjoiMSJ9.PooeaXEgLrTuTEkMB5N2-4KuzAWaLYFoLEoi5aLQzxa5RqvXNKIo2Lx6ewXn7wDykjZpwx3Obm67yOdbY8HD3KOwJKyjEpbJnVL5TDE1rPGHNlzfp20LxxqYENpKgC2r0KJUBprQkZ2T0jKOyZTlWYgfn4m8SiyEGH1ddKueUO0RKA2QRe1RbossNDVQJICP6pz3P-bUcJ67oykRDmFgMdYsMJDvaLq1SfPWe7Ug4hg.alk7VEFhbjKzUnVt14Ol4AZS-Kemtdk4z52QcSmCVng&dib_tag=se&keywords=ESP32-CAM%2Bwith%2Bcamera&qid=1776057912&sprefix=esp32-cam%2Bwith%2Bcamera%2Caps%2C284&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1  |
-| FT232RL FTDI programmer | $6 | Amazon: search "FT232RL FTDI" |
-| Sound sensor KY-038 | $4 | Amazon: search "KY-038 sound sensor" |
-| Servo motor SG90 (2x) | $6 | Amazon: search "SG90 servo" |
-| LED Matrix MAX7219 (2x) | $8 | Amazon: search "MAX7219 LED matrix" |
-| Buzzer | $2 | Amazon: search "passive buzzer 3.3V" |
-| Breadboard + wires | $8 | Amazon: search "breadboard jumper wires kit" |
-| USB cables | $4 | Amazon: search "micro USB cable" |
-| **TOTAL** | **~$48** | |
+
+| Part | Price | Link |
+|------|-------|------|
+| ESP32-CAM AI-Thinker (2-pack) | $15.99 | https://www.amazon.com/dp/B09TB1GJ7P |
+| FT232RL FTDI Programmer (2-pack) | $5.99 | https://www.amazon.com/dp/B0FHP71BCQ |
+| KY-038 Sound Sensor (5-pack) | $8.65 | https://www.amazon.com/dp/B0DGY3K2PM |
+| SG90 Servo Motor (4-pack) | $9.99 | https://www.amazon.com/dp/B0FP2P3JC8 |
+| MAX7219 LED Matrix 4-in-1 (32x8) | $13.99 | https://www.amazon.com/dp/B0BXDKHZL6 |
+| Passive Buzzer (20-pack) | $5.99 | https://www.amazon.com/dp/B0F1KFHSNK |
+| Breadboard + Jumper Wires Kit | $14.99 | https://www.amazon.com/dp/B0C1VDKPW2 |
+| Micro USB Cable (6ft) | $8.09 | https://www.amazon.com/dp/B07232M876 |
+| **TOTAL** | **~$83.68** | |
 
 ## Custom PCB
 No. Using breadboard for prototype.
