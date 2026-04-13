@@ -6,7 +6,7 @@ JARVIS Jr. is a desk companion that watches your room with motion detection, rec
 
 ## Problem it solves
 
-Smart speakers like Alexa are passive — they wait for you to talk to them. JARVIS Jr. is proactive — it watches, sees, and responds physically. It doesn't just sit there; it feels present in the room.
+Smart speakers like Alexa are passive  they wait for you to talk to them. JARVIS Jr. is proactive  it watches, sees, and responds physically. It doesn't just sit there, it feels present in the room.
 
 ## How it works
 
@@ -36,15 +36,14 @@ Smart speakers like Alexa are passive — they wait for you to talk to them. JAR
 | Part | Price | Link |
 |------|-------|------|
 | ESP32-CAM AI-Thinker (2-pack) | $15.99 | [Amazon](https://www.amazon.com/dp/B09TB1GJ7P) |
-| FT232RL FTDI Programmer | $9.99 | [Amazon](https://www.amazon.com/dp/B0FHP71BCQ) |
-| KY-038 Sound Sensor | $6.99 | [Amazon](https://www.amazon.com/dp/B0DGY3K2PM) |
-| SG90 Servo (2-pack) | $8.99 | [Amazon](https://www.amazon.com/dp/B0FP2P3JC8) |
-| MAX7219 LED Matrix (2-pack) | $7.99 | [Amazon](https://www.amazon.com/dp/B0BXDKHZL6) |
-| Passive Buzzer | $4.99 | [Amazon](https://www.amazon.com/dp/B0F1KFHSNK) |
-| Breadboard 830 points | $3.99 | Included in kit |
-| Jumper wires (M-M, M-F) | $3.99 | Included in kit |
-| Micro USB cable (2-pack) | $5.98 | [Amazon](https://www.amazon.com/dp/B07232M876) |
-| **TOTAL** | **~80** (prices may vary a little tho) | |
+| FT232RL FTDI Programmer (2-pack) | $5.99 | [Amazon](https://www.amazon.com/dp/B0FHP71BCQ) |
+| KY-038 Sound Sensor (5-pack) | $8.65 | [Amazon](https://www.amazon.com/dp/B0DGY3K2PM) |
+| SG90 Servo (4-pack) | $9.99 | [Amazon](https://www.amazon.com/dp/B0FP2P3JC8) |
+| MAX7219 LED Matrix (4-in-1) | $13.99 | [Amazon](https://www.amazon.com/dp/B0BXDKHZL6) |
+| Passive Buzzer (20-pack) | $5.99 | [Amazon](https://www.amazon.com/dp/B0F1KFHSNK) |
+| Breadboard + Jumper Wires Kit | $14.99 | [Amazon](https://www.amazon.com/dp/B0C1VDKPW2) |
+| Micro USB cable (6ft) | $8.09 | [Amazon](https://www.amazon.com/dp/B07232M876) |
+| **TOTAL** | **~$84** | |
 
 ## Custom PCB
 
@@ -59,4 +58,4 @@ No. Using breadboard for prototype.
 
 ## Inspiration
 
-JARVIS from Iron Man — specifically the desk presence, not the AI.
+JARVIS from Iron Man — specifically the desk presence, not the AI intelligence.
