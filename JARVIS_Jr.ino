@@ -1,23 +1,3 @@
-/*
- * JARVIS Jr. - ESP32-CAM Desk Companion
- * 
- * An interactive desk robot that watches your room, sees faces,
- * responds to clap patterns, and can be controlled from your phone.
- * 
- * Features:
- * - Motion detection (auto-wake when movement detected)
- * - Face detection with live overlay in camera stream
- * - Clap patterns: 2=wave, 3=point, 4=photo
- * - Web interface for phone control
- * - LED matrix face expressions
- * 
- * Hardware:
- * - ESP32-CAM AI-Thinker
- * - KY-038 Sound Sensor
- * - SG90 Servo
- * - MAX7219 LED Matrix (8x8)
- * - Passive Buzzer
- * 
  * Author: mani123
  * For: Hack Club Highway to Undercity
  */
