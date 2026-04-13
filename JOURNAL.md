@@ -1,15 +1,6 @@
 ---
-name: JARVIS Jr.
-highway: true
+title: "JARVIS Jr."
+author: "Mani"
+description: "ESP32-CAM desk companion with clap activation, servo arm, LED matrix face, and voice commands"
+created_at: "2026-04-13"
 ---
-
-# JARVIS Jr. — Build Journal
-
-## Project Overview
-// Coming soon
-
-## Parts List
-// Coming soon
-
-## Weekly Log
-// Entries below
