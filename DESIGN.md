@@ -58,4 +58,4 @@ No. Using breadboard for prototype.
 
 ## Inspiration
 
-JARVIS from Iron Man — specifically the desk presence, not the AI intelligence.
+JARVIS from Iron Man — specifically the desk companion part.
