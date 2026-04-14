@@ -13,7 +13,7 @@ An ESP32-CAM powered desk companion that actually watches your room.
 
 ## Why I'm building it
 
-Smart speakers just sit there and talk. I wanted something that actually interacts with my space,watches for movement, sees faces, responds to different inputs with physical actions. The goal is a desk companion that feels alive.
+My favorite superhero from marvel as ironman. I really just wanted to be able to build cool stuff like him so i just decided to start of with a jarvis like companion.
 
 ## How it works
 
