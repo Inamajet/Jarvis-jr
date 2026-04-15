@@ -29,3 +29,11 @@ My favorite superhero from marvel as ironman. I really just wanted to be able to
 ## Inspiration
 
 JARVIS from Iron Man
+
+
+![JARVIS_Jr_Full_Wiring](https://github.com/user-attachments/assets/9ebf9776-dc8b-440d-ae8b-e7ccc89ca3b6)
+
+
+
+<img width="1495" height="1134" alt="Screenshot 2026-04-13 190743" src="https://github.com/user-attachments/assets/7d95bade-822b-403a-be91-d6f76eb4a310" />
+
